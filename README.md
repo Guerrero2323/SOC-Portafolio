@@ -10,6 +10,7 @@
 
 | Carpeta | Qué contiene | Estado |
 | :--- | :--- | :--- |
+| **00-Fundamentos-Programacion** | Scripts de Python para análisis de logs (log-analyzer.py + auth.log) | ✅ Fase 0 Completada |
 | **01-Network-Analysis** | Análisis de tráfico con Wireshark (PCAPs, ARP, DNS, HTTP) | 🔜 Fase 1 |
 | **02-Phishing-Investigation** | Análisis de cabeceras, URLs e IOCs de correos maliciosos | 🔜 Fase 2 |
 | **03-SIEM-Detection** | Reglas de detección y dashboards en Splunk / ELK | 🔜 Fase 2 |
