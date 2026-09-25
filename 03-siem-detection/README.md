@@ -1,1 +1,0 @@
-# Detección con SIEM
