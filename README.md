@@ -7,18 +7,16 @@
 🎯 **Busco:** SOC Tier 1 - Presencial MTY / Remoto
 📬 **Contacto:** Disponible por LinkedIn
 
-### 📁 Estructura del Proyecto - Ruta Definitiva 25 Semanas (No se cambia más)
+### 📁 Estructura del Proyecto
 
 | Carpeta | Qué contiene | Estado |
 | :--- | :--- | :--- |
 | `00-fundamentos-programacion` | Scripts de Python para análisis de logs (log-analyzer.py + auth.log) | ✅ Fase 0 Completada |
 | `01-Network-Analysis` | Análisis de tráfico con Wireshark (PCAPs, ARP, DNS, HTTP) | ⏩ Fase 1 |
-| `02-Windows-Investigation` | Investigación Windows: Event IDs 4625, 4672, 4688 + AD - NUEVO | ⏩ Fase 2 |
-| `03-SIEM-Detection` | Reglas de detección y dashboards en Splunk / ELK - Aquí empiezas a postular | ⏩ Fase 3 |
+| `02-Windows-Investigation` | Investigación Windows: Event IDs 4625, 4672, 4688 + AD | ⏩ Fase 2 |
+| `03-SIEM-Detection` | Reglas de detección y dashboards en Splunk / ELK | ⏩ Fase 3 |
 | `04-Phishing-Investigation` | Análisis de cabeceras, URLs e IOCs de correos maliciosos + historia OT | ⏩ Fase 4 |
 | `05-Wazuh-Lab` | Laboratorio final: Wazuh + Sysmon + MITRE ATT&CK - Proyecto Final | 🟢 Proyecto Final |
-
-Ritmo: 90 min L-V + Sáb lab 9-12 + Sáb empleabilidad 12-13. Domingo APAGADO. Objetivo: SOC Analyst Jr / NOC / Soporte TI con enfoque seguridad.
 
 ### 🛠️ Stack Técnico
 `Python` `Linux (Ubuntu)` `Git & GitHub` `Wireshark` `VMware` `Kali Purple` `Splunk` `ELK` `Windows Event Logs` `Wazuh` `Sysmon` `Redes TCP/IP` `MITRE ATT&CK`
