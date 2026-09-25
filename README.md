@@ -1,34 +1,13 @@
-# 🛡️ SOC-Portafolio | De Operador a SOC Analyst - Monterrey
+# Portafolio SOC Analyst - Ezequiel Guerrero
+Ruta Definitiva 25 Semanas - De operador a Blue Team
 
-> Documentando mi transición de operador general a Ciberseguridad Defensiva. Objetivo: Primer rol SOC Tier 1.
+## Estructura definitiva (no se cambia más)
+- 00-fundamentos-programacion/ -> Python para logs (Fase 1)
+- 01-Network-Analysis/ -> Wireshark + Linux (Fase 2)
+- 02-Windows-Investigation/ -> Event IDs 4625, 4672, 4688 + AD (Fase 3) - NUEVO
+- 03-SIEM-Detection/ -> Splunk + SOC Level 1 (Fase 4) - Aquí empiezas a postular
+- 04-Phishing-Investigation/ -> IoCs + historia OT (Fase 5)
+- 05-Wazuh-Lab/ -> Proyecto final (Fase 6)
 
-**👤 Ezequiel Guerrero** | Ing. Sistemas Computacionales (UTEL) | Cadereyta / Monterrey, NL
-**🔗 LinkedIn:** https://www.linkedin.com/in/ezequiel-guerrero-b82356293 | **🎯 Busco:** SOC Tier 1 - Presencial MTY / Remoto
-**📧 Contacto:** Disponible por LinkedIn
-
-### 📁 Estructura del Proyecto
-
-| Carpeta | Qué contiene | Estado |
-| :--- | :--- | :--- |
-| 00-fundamentos-programacion | Scripts de Python para análisis de logs (log-analyzer.py + auth.log) | ✅ Fase 0 Completada |
-| 01-network-analysis | Análisis de tráfico con Wireshark (PCAPs, ARP, DNS, HTTP) | ⏩ Fase 1 |
-| 02-phishing-investigation | Análisis de cabeceras, URLs e IOCs de correos maliciosos | ⏩ Fase 2 |
-| 03-siem-detection | Reglas de detección y dashboards en Splunk / ELK | ⏩ Fase 2 |
-| 04-home-soc-lab | Mi laboratorio: VMware + Kali Purple + Ubuntu + Splunk | 🟢 En construcción |
-
-### 🛠️ Stack Técnico
-
-`Python` `Linux (Ubuntu)` `Git & GitHub` `Wireshark` `VMware` `Kali Purple` `Splunk` `ELK` `Redes TCP/IP`
-
-### 🚀 Mi Roadmap
-
-- [x] **Fase 0 - Fundamentos:** Python básico, Git, Linux, Modelo OSI/TCP-IP
-- [ ] **Fase 1 - Análisis de Red:** Wireshark + 3 análisis de PCAP documentados
-- [ ] **Fase 2 - Detección:** 2 investigaciones de phishing + 1 dashboard en Splunk
-- [ ] **Fase 3 - Empleabilidad:** CV + LinkedIn optimizado + Postulación a SOC Tier 1
-
-### 📖 Cómo está documentado cada proyecto
-Cada carpeta tendrá su propio README con: Objetivo, Herramientas, Hallazgos y Evidencia (capturas).
-
----
-*Este portafolio es parte de mi plan de 90 días para migrar a Ciberseguridad Defensiva desde el área operativa.*
+Ritmo: 90 min L-V + Sab lab 9-12 + Sab empleabilidad 12-13. Domingo OFF.
+Objetivo: SOC Analyst Jr / NOC / Soporte TI con enfoque seguridad.
