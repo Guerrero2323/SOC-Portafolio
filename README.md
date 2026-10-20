@@ -11,19 +11,19 @@
 
 | Carpeta | Qué contiene | Estado |
 | :--- | :--- | :--- |
-| `00-fundamentos-programacion` | Scripts de Python para análisis de logs (log-analyzer.py + auth.log) | ⏩ Fase 1 |
-| `01-Network-Analysis` | Análisis de tráfico con Wireshark (PCAPs, ARP, DNS, HTTP) | ⏩ Fase 2 |
-| `02-Windows-Investigation` | Investigación Windows: Event IDs 4625, 4672, 4688 + AD | ⏩ Fase 3 |
-| `03-SIEM-Detection` | Reglas de detección y dashboards en Splunk / ELK | ⏩ Fase 4 |
-| `04-Phishing-Investigation` | Análisis de cabeceras, URLs e IOCs de correos maliciosos | ⏩ Fase 5 |
-| `05-Wazuh-Lab` | Laboratorio final: Wazuh + Sysmon + MITRE ATT&CK - Proyecto Final | 🟢 Fase 6 |
+| `00-fundamentos-programacion` | Script en Python que abre un archivo y cuenta sus líneas. | En curso (Fase 1) |
+| `01-Network-Analysis` | Análisis de tráfico con Wireshark (PCAPs, ARP, DNS, HTTP) | Sin iniciar (Fase 2) |
+| `02-Windows-Investigation` | Investigación Windows: Event IDs 4625, 4672, 4688 + AD | Sin iniciar (Fase 3) |
+| `03-SIEM-Detection` | Reglas de detección y dashboards en Splunk / ELK | Sin iniciar (Fase 4) |
+| `04-Phishing-Investigation` | Análisis de cabeceras, URLs e IOCs de correos maliciosos | Sin iniciar (Fase 5) |
+| `05-Wazuh-Lab` | Laboratorio final: Wazuh + Sysmon + MITRE ATT&CK - Proyecto Final | Sin iniciar (Fase 6) |
 
 ### 🛠️ Stack Técnico
-`Python` `Linux (Ubuntu)` `Git & GitHub` `Wireshark` `VMware` `Kali Purple` `Splunk` `ELK` `Windows Event Logs` `Wazuh` `Sysmon` `Redes TCP/IP` `MITRE ATT&CK`
+`Linux (Ubuntu)` `Git & GitHub`
 
 ### 🚀 Mi Roadmap
 
-- [x] **Fase 0 - Fundamentos:** Estructura definitiva, Git, Linux, Modelo OSI/TCP-IP - **Completada**
+- [x] **Fase 0 - Fundamentos:** Configuración del entorno de desarrollo (VS Code, Python, Git) y creación de perfiles profesionales en GitHub y LinkedIn. - **Completada**
 - [ ] **Fase 1 - Python para logs:** Parser de brute force + log-analyzer.py (Carpeta 00)
 - [ ] **Fase 2 - Análisis de Red:** Wireshark + 3 análisis de PCAP documentados (Carpeta 01)
 - [ ] **Fase 3 - Windows Investigation:** Event IDs 4625, 4672, 4688 + AD (Carpeta 02)
