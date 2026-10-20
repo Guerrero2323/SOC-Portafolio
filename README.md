@@ -16,7 +16,7 @@
 | `02-Windows-Investigation` | Investigación Windows: Event IDs 4625, 4672, 4688, 4720 + AD | Sin iniciar (Fase 3) |
 | `03-SIEM-Detection` | 3 queries de detección y 1 dashboard en Splunk | Sin iniciar (Fase 4) |
 | `04-Phishing-Investigation` | Análisis de cabeceras, URLs e IOCs de correos maliciosos | Sin iniciar (Fase 5) |
-| `05-Wazuh-Lab` |  - Laboratorio final con Wazuh: guía de instalación + casos de detección + video demo de 3 min | Sin iniciar (Fase 6) |
+| `05-Wazuh-Lab` | Laboratorio final con Wazuh: guía de instalación + casos de detección + video demo de 3 min | Sin iniciar (Fase 6) |
 
 ### 🛠️ Stack Técnico
 `Linux (Ubuntu)` `Git & GitHub`
