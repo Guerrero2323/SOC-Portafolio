@@ -13,7 +13,7 @@
 | :--- | :--- | :--- |
 | `00-fundamentos-programacion` | Script en Python que abre un archivo y cuenta sus líneas. | En curso (Fase 1) |
 | `01-Network-Analysis` | Análisis de tráfico con Wireshark (PCAPs, ARP, DNS, HTTP) | Sin iniciar (Fase 2) |
-| `02-Windows-Investigation` | Investigación Windows: Event IDs 4625, 4672, 4688 + AD | Sin iniciar (Fase 3) |
+| `02-Windows-Investigation` | Investigación Windows: Event IDs 4625, 4672, 4688, 4720 + AD | Sin iniciar (Fase 3) |
 | `03-SIEM-Detection` | Reglas de detección y dashboards en Splunk / ELK | Sin iniciar (Fase 4) |
 | `04-Phishing-Investigation` | Análisis de cabeceras, URLs e IOCs de correos maliciosos | Sin iniciar (Fase 5) |
 | `05-Wazuh-Lab` | Laboratorio final: Wazuh + Sysmon + MITRE ATT&CK - Proyecto Final | Sin iniciar (Fase 6) |
@@ -24,12 +24,12 @@
 ### 🚀 Mi Roadmap
 
 - [x] **Fase 0 - Fundamentos:** Configuración del entorno de desarrollo (VS Code, Python, Git) y creación de perfiles profesionales en GitHub y LinkedIn. - **Completada**
-- [ ] **Fase 1 - Python para logs:** Parser de brute force + log-analyzer.py (Carpeta 00)
-- [ ] **Fase 2 - Análisis de Red:** Wireshark + 3 análisis de PCAP documentados (Carpeta 01)
-- [ ] **Fase 3 - Windows Investigation:** Event IDs 4625, 4672, 4688 + AD (Carpeta 02)
-- [ ] **Fase 4 - SIEM Detection:** 2 reglas + 1 dashboard en Splunk (Carpeta 03)
-- [ ] **Fase 5 - Phishing Investigation:** 2 investigaciones de phishing con IOCs (Carpeta 04)
-- [ ] **Fase 6 - Empleabilidad:** Wazuh Lab + CV + LinkedIn optimizado + Postulación a SOC Tier 1 (Carpeta 05)
+- [ ] **Fase 1 - Python para logs:** Script que lee auth.log y cuenta IPs con intentos fallidos (Carpeta 00)
+- [ ] **Fase 2 - Análisis de Red:** Wireshark + 2 capturas .pcap documentadas (Carpeta 01)
+- [ ] **Fase 3 - Windows Investigation:** Event IDs 4625, 4672, 4688, 4720 + AD (Carpeta 02)
+- [ ] **Fase 4 - SIEM Detection:** 3 queries + 1 dashboard en Splunk (Carpeta 03)
+- [ ] **Fase 5 - Phishing Investigation:** Tabla de IoCs + reporte de 2 páginas (Carpeta 04)
+- [ ] **Fase 6 - Empleabilidad:** Wazuh Lab + CV + LinkedIn optimizado (Carpeta 05)
 
 ### 📝 Cómo está documentado cada proyecto
 Cada carpeta tendrá su propio README con: Objetivo, Herramientas, Hallazgos y Evidencia (capturas).
